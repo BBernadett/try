@@ -8,7 +8,6 @@ ghpages.publish('dist', function(err) {});
 
 const DIST_DIR = path.resolve(__dirname, 'dist'); 
 
-  
 
 module.exports = { 
 
